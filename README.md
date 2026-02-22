@@ -14,12 +14,12 @@ The main aim of this assignment is to create a machine learning model that would
     *   Distribution of Loan Amount: A Histogram was used to demonstrate the distribution of loan amounts.
     *   Loan Default vs. Education Level: A count plot was used to demonstrate the relationship between loan default status and education levels.
     *   Distribution of Income A histogram was used to show the distribution of incomes of the applicants.
-    *   **Correlation Heatmap**: The correlation between the numerical features was represented in a heatmap, where possible relationship with the target variable was determined.
-4.  Model Training**: The model that was selected to perform binary classification is the Logistic Regression model since this model is interpretable and it can be effectively used to perform binary classification. The scaled training data were trained on the model.
-5.  Model Evaluation**: The performance of the trained model was evaluated with:
-    *   **Accuracy Score: The total correctness of the predictions of the model.
-    *   **Confusion Matrix: This is a comprehensive list of the true positives, true negatives, false positives, and false negatives.
-    *   **Classification Report**: Gave precision, recall, and f1-score per class.
+    *   Correlation Heatmap**: The correlation between the numerical features was represented in a heatmap, where possible relationship with the target variable was determined.
+4.  Model Training: The model that was selected to perform binary classification is the Logistic Regression model since this model is interpretable and it can be effectively used to perform binary classification. The scaled training data were trained on the model.
+5.  Model Evaluation: The performance of the trained model was evaluated with:
+    *   Accuracy Score: The total correctness of the predictions of the model.
+    *   Confusion Matrix: This is a comprehensive list of the true positives, true negatives, false positives, and false negatives.
+    *   Classification Report**: Gave precision, recall, and f1-score per class.
 
 ## Results and Insights
 
